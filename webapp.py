@@ -41,7 +41,7 @@ sns.set_style("whitegrid")
 @st.cache_data
 def load_default_data() -> pd.DataFrame:
     """Load the default HR dataset from CSV."""
-    return pd.read_csv("HR Employee Attrition.csv")
+    return pd.read_csv("hr_employee_attrition.csv")
 
 
 @st.cache_data
