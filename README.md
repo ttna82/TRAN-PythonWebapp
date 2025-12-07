@@ -10,24 +10,17 @@ This project transforms the HR Employee Attrition dataset into a complete intera
 It demonstrates advanced Python skills across:
 
 Data cleaning & feature engineering
-
 Exploratory Data Analysis (EDA)
-
 Interactive visual analytics
-
 Machine learning prediction
-
 REST API integration
-
 PEP8-compliant architecture
 
 The application is designed to help HR managers explore workforce characteristics, identify risk factors for attrition, and evaluate employee-level attrition probability through a predictive ML model.
 
 🚀 Live Application (Streamlit Cloud)
 
-👉 (Include your deployed link here once published)
-
-https://your-app-name.streamlit.app
+👉
 
 📁 Project Structure
 hr-attrition-app/
